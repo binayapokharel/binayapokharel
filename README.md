@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
+Profile Views: [![HitCount](https://hits.dwyl.com/binayapokharel/binayapokharel.svg?style=flat-square&show=unique)](http://hits.dwyl.com/binayapokharel/binayapokharel)
+
 - 🔭 I’m currently working on focusing things
 - 🌱 I’m currently learning how to progress
 - 👯 I’m looking to collaborate on ...
