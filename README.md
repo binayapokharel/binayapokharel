@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋                                      👀 [![HitCount](https://hits.dwyl.com/binayapokharel/binayapokharel.svg?style=flat-square&show=unique)](http://hits.dwyl.com/binayapokharel/binayapokharel)
 
 <!--
 **binayapokharel/binayapokharel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-Profile Views: [![HitCount](https://hits.dwyl.com/binayapokharel/binayapokharel.svg?style=flat-square&show=unique)](http://hits.dwyl.com/binayapokharel/binayapokharel)
+
 
 - 🔭 I’m currently working on focusing things
 - 🌱 I’m currently learning how to progress
