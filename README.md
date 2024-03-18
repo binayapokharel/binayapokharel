@@ -1,4 +1,4 @@
-### Hi there 👋                                      👀 [![HitCount](https://hits.dwyl.com/binayapokharel/binayapokharel.svg?style=flat-square&show=unique)](http://hits.dwyl.com/binayapokharel/binayapokharel)
+### Hi there 👋  [![HitCount](https://hits.dwyl.com/binayapokharel/binayapokharel.svg?style=flat-square&show=unique)](http://hits.dwyl.com/binayapokharel/binayapokharel)
 
 <!--
 **binayapokharel/binayapokharel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
