@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.binayapokharel.name.np/](https://www.binayapokharel.name.np/)
 
-- 💬 Ask me about **how to sleep**
+- 💬 Ask me about **how to sleep instantly**
 
 - 📫 How to reach me **binaya307@gmail.com**
 
