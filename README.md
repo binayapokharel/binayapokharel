@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [8D Site](www.youtube.com/@8dsite)
 
-- 🌱 I’m currently learning **Html,CSS**
+- 🌱 I’m currently learning **Html,CSS,JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://www.binayapokharel.name.np/](https://www.binayapokharel.name.np/)
 
