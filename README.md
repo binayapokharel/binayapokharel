@@ -3,9 +3,6 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0f3460&height=200&section=header&text=Binaya%20Pokharel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Dreamer%20from%20Nepal%20🇳🇵&descAlignY=60&descSize=20"/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Binaya+👋;Building+8D+Site+%7C+Learning+every+day;Turning+coffee+into+code+☕💻" alt="Typing SVG" />
-
 <br/>
 
 <!-- Profile Views + Followers + Stars -->
