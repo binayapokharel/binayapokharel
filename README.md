@@ -119,49 +119,7 @@ portfolio: https://www.binayapokharel.name.np/
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=binayapokharel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://www.binayapokharel.name.np/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binayapokharel&repo=binayapokharel.github.io&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
-> 💡 *More projects coming soon — stay tuned!*
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binayapokharel/binayapokharel/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binayapokharel/binayapokharel/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/binayapokharel/binayapokharel/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-> 🐍 *To enable the snake animation, set up [this GitHub Action](https://github.com/Platane/snk) in your repo.*
-
----
 
 ## 💭 Dev Quote of the Day
 
