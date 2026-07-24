@@ -36,7 +36,7 @@ portfolio: https://www.binayapokharel.name.np/
 <td width="50%">
 
 ### 🔭 What I'm Up To
-- 🚀 Building **8D Site** from scratch
+- 🚀 Professional UI/UX Designer 
 - 📚 Leveling up in **HTML, CSS & JS**
 - 🧠 Exploring **creative web experiences**
 - 🎯 Goal: Becoming a full-stack developer
