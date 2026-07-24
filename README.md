@@ -21,7 +21,7 @@
 ```yaml
 name: Binaya Pokharel
 location: Nepal 🇳🇵
-current_project: 8D Site
+current_pofession: Software Developer
 learning: [HTML, CSS, JavaScript]
 hobbies: [Coding, Sleep Hacks, Exploring Tech]
 fun_fact: You're literally stalking my GitHub right now 👀
